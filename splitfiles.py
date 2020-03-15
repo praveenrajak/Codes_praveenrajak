@@ -34,7 +34,7 @@ with open (source_filename,'r') as csvfile:
                 cnt +=1
 
 
-print(cnt)
+print("the count is:",cnt)
 
 #python3 source_file_path source_file_name target_file_path target_file_name filter_name
 #python splitfiles.py /users/praveenrajak/Desktop/dataset breweries_us.csv /users/praveenrajak/Desktop/dataset breweries_us_arizona.csv arizona
